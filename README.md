@@ -45,7 +45,7 @@ universal_product_agent/
 ├── .env                   # Environment variables (API keys) — DO NOT COMMIT
 ├── README.md              # Project documentation
 └── data/                  # Cached product datasets
-     └── keyboard/
+     └── product_name/
           ├── product_description.json
           └── customer_reviews.json
 ```
